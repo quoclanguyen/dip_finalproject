@@ -7,7 +7,7 @@ Most compatible Python version: `3.10.0`
 ```
 git clone https://github.com/meituan/YOLOv6
 ```
-Download this project's custom dataset trained model here: [Download](https://drive.google.com/drive/folders/18L8aAf-ILvC8F5uCio4Foct8W5azDkyb?usp=sharing) (Put in project ROOT directory)
+Download this project's custom dataset trained model here: [Download](https://drive.google.com/drive/folders/18L8aAf-ILvC8F5uCio4Foct8W5azDkyb?usp=sharing) (Put in project ROOT directory)  
 **Install requirements**  
 ```
 pip install -r requirements.txt
@@ -22,5 +22,8 @@ Vehicles and pedestrians recognition from images, with listing labels from outpu
 
 Video input
 ![result](images/rs2.png)
+
+View CCTV - Le Van Viet St. Crossroad with Vo Nguyen Giap St. (Thu Duc - Ho Chi Minh City)
+![result](images/rs3.png)
 
 To deploy a public URL that everyone can access, set `.launch(share = True)` in `index.py`
