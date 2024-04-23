@@ -2,6 +2,8 @@
 # python3.8 environment
 
 cmake
+moviepy
+psutil
 torch>=1.8.0
 torchvision>=0.9.0
 numpy>=1.24.0
