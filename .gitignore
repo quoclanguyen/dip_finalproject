@@ -1,0 +1,12 @@
+YOLOv6
+.venv
+dataset
+dataset.zip
+__pycache__
+data
+labeled_images
+labeled_videos
+videos
+test_images
+trained_model
+flagged
